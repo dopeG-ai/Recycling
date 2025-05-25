@@ -1,0 +1,14 @@
+.env
+check-servers.js
+filelist.txt
+node_modules
+package-lock.json
+package.json
+public
+src
+start-app.bat
+start-backend.bat
+start-frontend.bat
+start-servers.ps1
+test-backend.ps1
+test-servers.js
